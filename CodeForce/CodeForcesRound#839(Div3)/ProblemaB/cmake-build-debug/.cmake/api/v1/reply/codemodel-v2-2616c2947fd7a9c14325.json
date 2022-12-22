@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "ProblemaA::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ProblemaA-Debug-f42e418da4a4a5380fdd.json",
-					"name" : "ProblemaA",
+					"id" : "ProblemaB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProblemaB-Debug-8dced1ec91fd48ec3b10.json",
+					"name" : "ProblemaB",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeForce/CodeForcesRound#839(Div3)/ProblemaA/cmake-build-debug",
-		"source" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeForce/CodeForcesRound#839(Div3)/ProblemaA"
+		"build" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeForce/CodeForcesRound#839(Div3)/ProblemaB/cmake-build-debug",
+		"source" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeForce/CodeForcesRound#839(Div3)/ProblemaB"
 	},
 	"version" : 
 	{

@@ -3,4 +3,4 @@ project(ProblemaA)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ProblemaA A+B.cpp)
+add_executable(ProblemaB RotateMatriz.cpp)
