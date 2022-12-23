@@ -9,7 +9,7 @@ int main(){
     int Resp[N];
     for (int i = 0; i < N; ++i) {
         cin>>X>>Y;
-        Resp[i]=X-Y;
+        Resp[i]=Y-X;
     }
     for (int i = 0; i < N; ++i) {
         cout<<Resp[i]<<endl;
