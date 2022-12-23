@@ -15,7 +15,7 @@ int main(){
             cout<<"MILD"<<endl;
         }else if(Especies[i] >= 4 and Especies[i] < 7){
             cout<<"MEDIUM"<<endl;
-        }else if (Especies[i] > 7){
+        }else if (Especies[i] >= 7){
             cout<<"HOT"<<endl;
         }
     }
