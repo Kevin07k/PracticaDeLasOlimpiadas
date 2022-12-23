@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Kitchen_Timings",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Kitchen_Timings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kitchen_Timings-Debug-81f0205df116d1834282.json",
+					"name" : "Kitchen_Timings",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Kitchen Timings/cmake-build-debug",
+		"source" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Kitchen Timings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Kitchen Timings/cmake-build-debug/CMakeFiles/Kitchen_Timings.dir
+D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Kitchen Timings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Kitchen Timings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
