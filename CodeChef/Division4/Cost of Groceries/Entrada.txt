@@ -1,0 +1,21 @@
+4   Casos de prueba
+
+2 Casos de Prueba 20 Frescura Minima
+
+15 67   Frescura
+10 90   Precio
+
+3 Casos de Prueba 1 Frescura Minima
+
+1 2 3   Frescura
+1 2 3   Precio
+
+3 Casos de Prueba 100 Frescura Minima
+
+10 90 50    Frescura
+30 7 93     Precio
+
+4 Casos de Prueba 50 Frescura Minima
+
+12 78 50 40     Frescura
+40 30 20 10     Precio

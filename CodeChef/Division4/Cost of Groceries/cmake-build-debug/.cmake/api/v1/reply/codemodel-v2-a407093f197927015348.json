@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cost_of_Groceries",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cost_of_Groceries::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cost_of_Groceries-Debug-7505a45a519431323eae.json",
+					"name" : "Cost_of_Groceries",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Cost of Groceries/cmake-build-debug",
+		"source" : "D:/Cursos/PracticaOlimpiadas/PracticaDeLasOlimpiadas/CodeChef/Division4/Cost of Groceries"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
